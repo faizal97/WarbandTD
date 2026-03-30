@@ -1,0 +1,6 @@
+# Libs fetched by packager at build time
+Libs/LibStub
+Libs/CallbackHandler-1.0
+
+# OS files
+.DS_Store
