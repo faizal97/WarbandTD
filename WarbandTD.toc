@@ -1,0 +1,30 @@
+## Interface: 120001
+## Title: WarbandTD
+## Notes: Tower defense mini-game — defend your keystone using your warband characters as towers
+## Author: Fayz
+## Version: @project-version@
+## IconTexture: Interface\Icons\INV_Misc_Map_01
+## Category: Mini Games
+
+## SavedVariables: WarbandTD_DB
+
+## AddonCompartmentFunc: WarbandTD_OnAddonCompartmentClick
+
+# Libraries
+Libs\libs.xml
+
+# Data
+Data\BalanceConfig.lua
+Data\ClassDefs.lua
+Data\DungeonDefs.lua
+Data\EffectHandlers.lua
+
+# Keybindings
+Bindings.xml
+
+# Core
+Core.lua
+GameState.lua
+UI.lua
+Animations.lua
+Interaction.lua

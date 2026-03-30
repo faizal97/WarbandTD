@@ -1,0 +1,13 @@
+package-as: WarbandTD
+
+externals:
+  Libs/LibStub:
+    url: https://repos.wowace.com/wow/libstub/trunk
+
+ignore:
+  - README.md
+  - .github
+  - .luacheckrc
+  - scripts
+
+enable-nolib-creation: yes

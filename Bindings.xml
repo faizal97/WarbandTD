@@ -1,0 +1,20 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Binding name="WARBANDTD_TOWER1" header="WARBANDTD" runOnUp="false">
+        WarbandTD_ActivateTower(1)
+    </Binding>
+    <Binding name="WARBANDTD_TOWER2" runOnUp="false">
+        WarbandTD_ActivateTower(2)
+    </Binding>
+    <Binding name="WARBANDTD_TOWER3" runOnUp="false">
+        WarbandTD_ActivateTower(3)
+    </Binding>
+    <Binding name="WARBANDTD_TOWER4" runOnUp="false">
+        WarbandTD_ActivateTower(4)
+    </Binding>
+    <Binding name="WARBANDTD_TOWER5" runOnUp="false">
+        WarbandTD_ActivateTower(5)
+    </Binding>
+    <Binding name="WARBANDTD_NEXWAVE" runOnUp="false">
+        WarbandTD_NextWave()
+    </Binding>
+</Ui>
